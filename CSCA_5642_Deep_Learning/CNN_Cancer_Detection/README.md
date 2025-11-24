@@ -1,3 +1,4 @@
+## Problem Description
 The goal of this problem is to identify metastatic tissue in histopathologic scans of lymph node sections. Given images of scans the goal is to identify the scans as positive or negative.
 
 The images have dimension 96x96x3 which is about 27,648 predictors for each image. There are a total of about 220,000 train images with known labels and 57,458 test images.
